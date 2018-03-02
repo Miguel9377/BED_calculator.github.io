@@ -12,11 +12,17 @@ By accessing and using the GUI you accept the following conditions:
 
 
 # GETTING STARTED
-
-1) Identify whether your Windows System architecture is 32 or 64 bit.
-2) Download the appropriate installer (or try both).
-3) Run the installer, specifying a location for the GUI to be installed. Note you can specify that you want a shortcut to the GUI placed on your desktop.
+1) Download BED_calculator_V2.zip 
+2) Identify whether your Windows System architecture is 32 or 64 bit.
+3) Run the appropriate installer (or try both), specifying a location for the GUI to be installed. Note you can specify that you want a shortcut to the GUI placed on your desktop.
 4) Once installed, then either run the GUI from the desktop shortcut, if chosen, or open up the specified location. There should be a subfolder called "application", inside this folder there is BED_calculator.exe, which runs the GUI when opened.
+
+## If you do not have windows, cannot get the installer to work, or know what you are doing
+You will need a copy of MatLab installed on your computer.
+1) Download MatLab_code.zip.
+2) Unzip files into a specified directory.
+3) Open MatLab and navigate it to the directory containing the unzipped files.
+4) Run the code, or type "BED_calculator_V2".
 
 # ISSUES
 Any computational issues related to the use of the GUI can be reported on the appropriate GitHub page under "issues". Note Thomas E. Woolley is a mathematician and is unable to supply any help on any particular medical application. These should be directed to the local clinical specialist of the user.
